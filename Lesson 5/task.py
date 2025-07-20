@@ -1,4 +1,4 @@
-"""if, elif, else"""
+"""comparison operator: if, elif, else"""
 
 age = int(input("Enter your age: "))
 
